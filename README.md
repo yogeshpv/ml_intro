@@ -8,11 +8,9 @@ You can install anaconda in mac, The steps below is for installing in openhouse
    3. Follow steps here : [http://jupyter-notebook.readthedocs.io/en/latest/public_server.html](http://jupyter-notebook.readthedocs.io/en/latest/public_server.html)
    4. Run from client: jupyter notebook --no-browser --port 8000 --ip <address>
    5. To run the code: you will need to install following:
-   ..1. pip install quandl
-
-   ..2. pip install seaborn
-   
-   ..3. pip install mpld3
+   * pip install quandl
+   * pip install seaborn
+   * pip install mpld3
 
 
 
